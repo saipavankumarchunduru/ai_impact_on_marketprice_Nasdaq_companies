@@ -1,6 +1,6 @@
 # ai_impact_on_marketprice_Nasdaq_companies
 Analysis of trends in AI for Marketprice of stock value in different significant dates
-Absolutely 👍 Below is a **GitHub-ready `README.md`** written as if you developed the project yourself. You can copy and paste it directly into GitHub.
+
 
 ````markdown
 # 📈 AI Stock Impact Alert & Historical Analysis Workflow
